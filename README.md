@@ -1,3 +1,5 @@
+<a href="https://copr.fedorainfracloud.org/coprs/extrepo/bigdata/package/zookeeper/"><img src="https://copr.fedorainfracloud.org/coprs/extrepo/bigdata/package/zookeeper/status_image/last_build.png" /></a>
+
 # Overview
 This repository contains everything needed to build RPM's for zookeeper, including libzookeeper and the devel packages. Different pieces are taken from places around the internet; the init script is quite close to Cassandra's. Individual packages will be built for zookeeper, libzookeeper, and zookeeper-devel.
 
